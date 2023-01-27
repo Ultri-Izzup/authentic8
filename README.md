@@ -1,9 +1,14 @@
 
+## Init app with domain support
 
 ```sh
 copilot app init --domain ultri.com
 ```
 
-```SH
+```sh
 Application name: service
 ```
+
+## Init API service
+
+
